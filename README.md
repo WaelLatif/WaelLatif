@@ -7,7 +7,7 @@
     <a href="https://www.instagram.com/waeldev0/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="https://avatars.githubusercontent.com/u/65243494?s=400&u=5d3900797096b173481d60b817ba776eac758e5e&v=4" align="right" width="25%"/>
+  <img src="https://www.facebook.com/photo.php?fbid=10207628454007063&set=t.1162626064&type=3" align="right" width="25%"/>
 
 Hi I am Wael , 
 
