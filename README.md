@@ -15,16 +15,17 @@ Passionate Mobile App Developer (Android Native & flutter cross Platform develop
 i have the Ability to 
 
 1.      Design and Build sophisticated and highly scalable apps using Flutter.
-2.      Translate and Build the designs and Wireframes into high quality and responsive UI code.
-3.      Use of Model-View-Controller (MVC) and Model-View-ViewModel-Controller (MVVM) as it relates to designing,
-4.      developing architecture and developing maintainable, testable and functional software that meets product requirements.
-5.      Explore feasible architectures for implementing new features.
-6.      Suggest space and time efficient Data Structures.
-7.      Follow the best practices while developing the apps and also keeping everything structured and well documented.
-8.      Document the project and code efficiently.
-9.      Ensure security guidelines are always followed while developing the apps.
-10.     Suggest new features and/or enhancements.
-11.     Maintaining software through product lifecycle including design, development, verification and bug fixes.
+2.      Translate and Build the designs and Wireframes into high quality and 
+        responsive UI code.
+4.      Use of Model-View-Controller (MVC) and Model-View-ViewModel-Controller (MVVM) as it relates to designing,
+5.      developing architecture and developing maintainable, testable and functional software that meets product requirements.
+6.      Explore feasible architectures for implementing new features.
+7.      Suggest space and time efficient Data Structures.
+8.      Follow the best practices while developing the apps and also keeping everything structured and well documented.
+9.      Document the project and code efficiently.
+10.      Ensure security guidelines are always followed while developing the apps.
+11.     Suggest new features and/or enhancements.
+12.     Maintaining software through product lifecycle including design, development, verification and bug fixes.
 
 Skilles 
 1.      Excellent communication skills.
